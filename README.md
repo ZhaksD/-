@@ -1,4 +1,4 @@
-# Bank transactions analysis
+# Bank transaction analysis
 # Анализ транзакций клиентов банка | Поведение и сегментация
 
 ## Бизнес-задача
